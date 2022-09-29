@@ -1,0 +1,14 @@
+[
+ {
+  "directory": "D:\\ClionProject\\C++\\Skiplist-CPP",
+  "arguments": [
+   "g++",
+   "-std=c++0x",
+   "-c",
+   "-o",
+   "main.o",
+   "main.cpp"
+  ],
+  "file": "main.cpp"
+ }
+]
